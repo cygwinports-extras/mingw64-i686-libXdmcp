@@ -4,7 +4,7 @@ inherit xorg cross
 
 NAME="mingw64-i686-libXdmcp"
 VERSION=1.1.1
-RELEASE=1
+RELEASE=2
 CATEGORY="Devel"
 SUMMARY="X11 Domain Manager Control Protocol library for Win32 toolchain"
 DESCRIPTION="This package does NOT contain cygwin binaries.  Instead, it
